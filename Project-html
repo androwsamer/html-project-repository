@@ -1,0 +1,200 @@
+<html lang="en"><head>
+    </head><body data-new-gr-c-s-check-loaded="8.876.0" data-gr-ext-installed="" background="https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-white-simple-artificial-intelligence-technology-promotion-banner-poster-image_194342.jpg">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  /* Style the body */
+  body {
+   background-image: url("aaa.jpg");
+  }
+  
+  /* Header/Logo Title */
+  .header {
+    padding: 60px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+  }
+  
+  /* Page Content */
+  .content {padding:20px;
+    text-align: center;}
+  
+  </style>
+  
+  
+  
+  
+  
+
+  
+  
+  
+  <style>
+a:link, a:visited {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  a:link, a:visited {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+  }
+  
+  a:hover, a:active  {
+    background-color: #008CBA;
+    color: white;
+  }
+  a:link, a:visited {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+  }
+  
+  a:hover, a:active  {
+    background-color: #008CBA;
+    color: white;
+  }
+  a:link, a:visited {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+  }
+  
+  a:hover, a:active {
+    background-color: #008CBA;
+    color: white;
+  }
+  
+  
+  a:link, a:visited {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+  }
+  
+  a:hover, a:active  {
+    background-color: #008CBA;
+    color: white;
+  }
+  a:link, a:visited {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+  }
+  
+  a:hover, a:active  {
+    background-color: #008CBA;
+    color: white;
+  }
+  
+  </style>
+  
+  
+  
+    <div class="content">
+         <a href="main page.html" target="_blank">Main page</a>
+         <a href="AI work.html" target="_blank">AI Work</a>
+         <a href="AI uses and examples.html" target="_blank">AI Uses</a>
+         <a href="Machine learning.html" target="_blank">Machine learning</a>
+         <a href="History.html" target="_blank">History</a>
+  </div>
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+    
+  
+    
+  <meta charset="utf-8">
+  <meta new="viewport" content="width=device-width , initial scale = 1">
+  
+<title>
+    ARTIFICIAL INTELLIGENCE WORK
+  </title>
+  
+  
+  
+    <h2> <u>HOW DOES ARTIFICIAL INTELLIGENCE WORK?</u></h2>
+    <p>
+        Less than a decade after breaking the Nazi encryption machine Enigma and helping the Allied Forces win World War II, mathematician Alan Turing changed history a second time with a simple question: "Can machines think?" 
+        Turing's paper "Computing Machinery and Intelligence" (1950), and its subsequent Turing Test, established the fundamental goal and vision of artificial intelligence.   
+        At its core, AI is the branch of computer science that aims to answer Turing's question in the affirmative. It is the endeavor to replicate or simulate human intelligence in machines.<br><br><br>
+
+        The expansive goal of artificial intelligence has given rise to many questions and debates. So much so, that no singular definition of the field is universally accepted.  
+        The major limitation in defining AI as simply "building machines that are intelligent" is that it doesn't actually explain what artificial intelligence is? What makes a machine intelligent?<br><br><br>
+        
+        In their groundbreaking textbook Artificial Intelligence: A Modern Approach, authors Stuart Russell and Peter Norvig approach the question by unifying their work around the theme of intelligent agents in machines.
+         With this in mind, AI is "the study of agents that receive percepts from the environment and perform actions." (Russel and Norvig viii).<br><br><br>
+         </p><div class="content">  <img src="https://builtin.com/sites/default/files/styles/ckeditor_optimize/public/inline-images/what-is-artificial-intelligence_2.png"><br><br><br>
+         </div>
+          Norvig and Russell go on to explore four different approaches that have historically defined the field of AI:<br>
+         <ol>
+<li>Thinking humanly</li>
+<li>Thinking rationally</li>
+<li>Acting humanly</li>
+<li>Acting rationally</li>
+         </ol>
+
+         The first two ideas concern thought processes and reasoning, while the others deal with behavior. Norvig and Russell focus particularly on rational agents that act to achieve the best outcome, noting "all the skills needed for the Turing Test also allow an agent to act rationally." (Russel and Norvig 4).<br><br><br>
+         Patrick Winston, the Ford professor of artificial intelligence and computer science at MIT, defines AI as  "algorithms enabled by constraints, exposed by representations that support models targeted at loops that tie thinking, perception and action together."<br><br><br>
+
+         While these definitions may seem abstract to the average person, they help focus the field as an area of computer science and provide a blueprint for infusing machines and programs with machine learning and other subsets of artificial intelligence.<br><br><br>
+         While addressing a crowd at the Japan AI Experience in 2017,  DataRobot CEO Jeremy Achin began his speech by offering the following definition of how AI is used today:<br><br><br>
+         "AI is a computer system able to perform tasks that ordinarily require human intelligence... Many of these artificial intelligence systems are powered by machine learning, some of them are powered by deep learning and some of them are powered by very boring things like rules."<br><br><br>
+ <p></p>
+
+ 
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<script>mendeleyWebImporter = {
+  downloadPdfs(t,e) { return this._call('downloadPdfs', [t,e]); },
+  open() { return this._call('open', []); },
+  _call(methodName, methodArgs) {
+    const id = Math.random();
+    window.postMessage({ id, token: '0.6295515364941913', methodName, methodArgs }, 'https://albermagdy.github.io');
+    return new Promise(resolve => {
+      const listener = window.addEventListener('message', event => {
+        const data = event.data;
+        if (typeof data !== 'object' || !('result' in data) || data.id !== id) return;
+        window.removeEventListener('message', listener);
+        resolve(data.result);
+      });
+    });
+  }
+};</script></body></html>
